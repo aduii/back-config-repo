@@ -7,5 +7,5 @@ logging:
   level:
     root: INFO
 
-message:
-  greeting: "Hola Mundo desde Config Server"
+app:
+  testProp: "Hola Mundo desde Config Server"
