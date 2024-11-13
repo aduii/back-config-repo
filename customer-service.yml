@@ -1,0 +1,11 @@
+# customer-service.yml
+
+server:
+  port: 8081
+
+logging:
+  level:
+    root: INFO
+
+message:
+  greeting: "Hola Mundo desde Config Server"
