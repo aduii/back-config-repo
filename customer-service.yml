@@ -1,6 +1,2 @@
-logging:
-  level:
-    root: INFO
-
 app:
   testProp: Hola Mundo desde Config Server
