@@ -10,4 +10,4 @@ logging:
     org.springframework.web: DEBUG
 
 app:
-  testProp: Hola Mundo desde Config Server
+  testProp: Hola Mundo desde Config Server Prod
