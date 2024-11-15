@@ -1,0 +1,13 @@
+customer:
+  property: Transaction Profile Dev
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/transaction_db
+logging:
+  level:
+    org.springframework.data.mongodb: DEBUG
+    org.springframework.web: DEBUG
+
+app:
+  testProp: Hola Mundo desde Config Server Dev
